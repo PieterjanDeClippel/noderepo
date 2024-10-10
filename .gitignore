@@ -64,6 +64,8 @@ project.fragment.lock.json
 artifacts/
 *.js
 *.js.map
+*.d.ts
+*.tsbuildinfo
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
