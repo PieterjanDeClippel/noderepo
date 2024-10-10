@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@company/lib1": [ "./NodeLib1/app.ts" ],
+      "@company/lib2": [ "./NodeLib2/app.ts" ]
+    }
+  }
+}
